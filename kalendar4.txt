@@ -1,0 +1,14 @@
+mesic	pocet dnu
+-----------------
+leden	31
+unor	28
+brezen	31
+duben	30
+kveten	31
+cerven	30
+cervenec	31
+srpen	31
+zari	30
+rijen	31
+listopad	30
+prosinec	31

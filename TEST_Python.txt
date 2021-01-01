@@ -1,0 +1,16 @@
+
+
+UKOL1:
+print (aopen [1] ['score'] [-1])
+
+
+UKOL2:
+data = content.strip().split(':')
+result = sum(int(c) for c in data)
+
+
+UKOL 3:
+Program nam pocita stav uctu pri kazde zmene(pohybu na uctu), tj. vyberu ci vkladu. Pokud jde zustatek pod nulu, tak se program ukonci s tim, ze mi vypise zmeny ktere probehly na uctu a datum kdy byl naposledy kladny zustatek. Pokud bych v pohybech nesla do minusu, tak program vypise zmeny na uctu a ok.
+
+UKOL 4:
+ 1C, 2B, 3D, 4A, 5E
